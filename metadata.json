@@ -1,0 +1,6 @@
+{
+  "name": "GigCred v2.0",
+  "description": "AI Financial Health & Income Twin for gig workers, freelancers, and micro-merchants with EMI analytics and CIVIL cashflow score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
